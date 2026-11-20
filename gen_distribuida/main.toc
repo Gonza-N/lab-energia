@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Marco Teórico}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Curva I-V}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Prueba cortocircuito y circuito abierto}{3}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Efecto sombra}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Diodo byPass para tratar el efecto sombra}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Curva P-$\omega $}{7}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Metodología y resultados}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Curvas Características Generación Eólica}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Máxima Transferencia de Potencia Generación Solar (Operación aislada)}{16}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Máxima Transferencia de Potencia Generación Solar (Operación en red)}{18}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Efecto Sombra}{20}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Bibliografía}{22}{section.4}%
